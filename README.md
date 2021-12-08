@@ -25,7 +25,7 @@ https://github.com/RichardMorris/SACDungeon
 * Step 5. Add your name to the list below
 
 1. Richard Morris - lead
-2.
+2. Courtney-Jade Rowden
 3.
 
 * Step 6. *Commit and Push* from Replit back to your GitHub account.
