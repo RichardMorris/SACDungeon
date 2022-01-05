@@ -2,8 +2,7 @@ package uk.ac.CornwallCollege.AdvancedOO;
 
 public class Lights {
 	int id;
-	Colours state;
-	
+	Colours state = Colours.RED;
 	public Lights() {
 	}
 	public void movement() {

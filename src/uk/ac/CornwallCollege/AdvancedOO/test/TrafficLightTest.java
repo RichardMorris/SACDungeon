@@ -15,7 +15,6 @@ class TrafficLightTest {
 		Lights tl = new Lights();
 		Colours s = tl.getState();
 		assertEquals(Colours.RED,s);
-		
 	
 	}
 
