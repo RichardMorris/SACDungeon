@@ -23,6 +23,12 @@ public class Lights {
 			break;			
 		}
 	}
+	
+	
+	public Colours getState() {
+		return state;
+	}
+	
 	public String toString() {
 		String sequence;
 		switch (state) {
