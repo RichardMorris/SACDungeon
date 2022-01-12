@@ -19,5 +19,11 @@ class MonsterTest {
 		out.println( m2 ); // implictly uses the toString methods
 		
 	}
+	
+	@Test
+	void testTroll() {
+		Troll t1 = new Troll(20,5);
+		out.println( t1 );
+	}
 
 }
