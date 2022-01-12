@@ -22,8 +22,34 @@ class MonsterTest {
 	
 	@Test
 	void testTroll() {
-		Troll t1 = new Troll(20,5);
+
+		Monster m1 = new Monster("foo", 20, 15);
+		out.println( m1 ); // implictly uses the toString methods
+
+		Troll t1 = new Troll(20,5,5);
 		out.println( t1 );
+
+		m1.attack(t1);
+		out.println( t1 );
+		
+		m1.attack(t1);
+		out.println( t1 );
+		
+	}
+
+	@Test
+	void testVampire() {
+
+		Monster m1 = new Monster("foo", 20, 15);
+		out.println( m1 ); // implictly uses the toString methods
+
+		Vampire v1 = new Vampire(20,5);
+		out.println( v1 );
+
+		v1.attack(m1);
+		out.println( m1 );
+		out.println( v1 );
+		
 	}
 
 }
