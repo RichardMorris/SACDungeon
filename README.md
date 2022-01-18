@@ -25,6 +25,7 @@ https://github.com/RichardMorris/SACDungeon
 4. Jamie Lias
 5. Courtney-Jade Rowden
 6. Andrew Maclaren - The supreme coder
+7. Peter Newing - the puzzle solver
 
 * Step 5. *Commit and Push* 
 
