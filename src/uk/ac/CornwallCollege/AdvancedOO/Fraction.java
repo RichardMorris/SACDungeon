@@ -3,6 +3,10 @@ package uk.ac.CornwallCollege.AdvancedOO;
 import java.util.Objects;
 
 public class Fraction extends Number implements Comparable<Fraction> {
+	// Needed to fix a warning message about serialisation
+	// an advanced topic that we don't need to worry about
+	// this is side effect of extending Number
+	private static final long serialVersionUID = 1L;
 	int numerator;   // top
 	int denominator;  // bottom
 	

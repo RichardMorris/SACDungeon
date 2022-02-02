@@ -6,7 +6,6 @@ import org.junit.jupiter.api.Test;
 
 import uk.ac.CornwallCollege.AdvancedOO.Colours;
 import uk.ac.CornwallCollege.AdvancedOO.Lights;
-import uk.ac.CornwallCollege.AdvancedOO.State;
 
 class TrafficLightTest {
 

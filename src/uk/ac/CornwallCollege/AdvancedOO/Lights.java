@@ -6,7 +6,6 @@ public class Lights {
 	public Lights() {
 	}
 	public void movement() {
-		int i;
 		switch (state) {
 		case RED:
 			state = Colours.RAA;
@@ -29,7 +28,6 @@ public class Lights {
 	}
 	
 	public String toString() {
-		String sequence;
 		switch (state) {
 		case RED:
 			return "Red";
