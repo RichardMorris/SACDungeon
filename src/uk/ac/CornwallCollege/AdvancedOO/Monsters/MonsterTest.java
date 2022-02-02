@@ -11,7 +11,7 @@ class MonsterTest {
 	void testBaseMonster() {
 		Monster m1 = new Monster("foo", 20, 5);
 		out.println( m1 ); // implictly uses the toString methods
-		
+		assertEquals("Monster [name=foo, health=20, attack=5]",m1.toString());
 		Monster m2 = new Monster("bar", 10, 3);
 		out.println( m2 ); // implictly uses the toString methods
 		

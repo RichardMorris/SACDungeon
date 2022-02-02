@@ -7,7 +7,7 @@ public class Vampire extends Monster {
 	}
 
 	@Override
-	public void attack(Monster foe) {
+	public void attack(Hittable foe) {
 		super.attack(foe);
 		health += attack/2;
 	}

@@ -5,7 +5,7 @@ package uk.ac.CornwallCollege.AdvancedOO.Monsters;
  * @author Richard.Morris
  * @version 0.1
  */
-public class Monster implements Hittable {
+public class Character implements Hittable {
 	int health;
 	int attack;
 	String name;
@@ -16,7 +16,7 @@ public class Monster implements Hittable {
 	 * @param health the health point
 	 * @param attack how much dammage it causes
 	 */
-	public Monster(String name, int health, int attack) {
+	public Character(String name, int health, int attack) {
 		super();
 		this.name = name;
 		this.health = health;
@@ -24,9 +24,10 @@ public class Monster implements Hittable {
 	}
 	
 	/**
-	 * When the monster is hit by another monster
+	 * When an entity is hit by another monster
 	 * @param points how much damage was done in the attack
 	 */
+	@Override
 	public void receiveDamage(int points) {
 		health -= points;
 	}
@@ -43,7 +44,7 @@ public class Monster implements Hittable {
 
 	@Override
 	public String toString() {
-		return "Monster [name=" + name + ", health=" + health + ", attack=" + attack + "]";
+		return "Player [name=" + name + ", health=" + health + ", attack=" + attack + "]";
 	}
 	
 	
