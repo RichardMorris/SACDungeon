@@ -27,14 +27,12 @@ https://github.com/RichardMorris/SACDungeon
 6. Andrew Maclaren - The supreme coder
 7. Peter Newing - the puzzle solver
 8. Adam C - The dark souls of programmers
+8. A Mathiesen
 
 * Step 5. *Commit and Push* 
 
--- TODO 
-  * Select the Version control tab on the left hand side (looks like a Y on its side).
-  * Fill in the "What did you change box"
-  * Press the "Commit and Push button"
-  * It will take upto a minute for the commit to be accepted.
+The procedure here depends on the editor you are using. 
+If on GitHub at the bottom of the edit page there is a box to Commit pages. Fill in details and press Commit changes.
 
 * Step 6. Create a pull request in github
   * Click the *Pull Request* or *Contribute* button
