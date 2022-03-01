@@ -19,14 +19,7 @@ https://github.com/RichardMorris/SACDungeon
 * Step 4. Add your name to the list below, use the pencil icon in the top right to do it
 
 1. Richard Morris - grand wizard
-2. Paul Smith
-3. Olly E - Dev and all round lovely chap
-4. Jamie Lias
-5. Courtney-Jade Rowden
-6. Andrew Maclaren - The supreme coder
-7. Peter Newing - the puzzle solver
-8. Adam C - The dark souls of programmers
-8. A Mathiesen
+2. Paddy-Shaw
 
 * Step 5. *Commit and Push* 
 
