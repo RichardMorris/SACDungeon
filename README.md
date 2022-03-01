@@ -15,7 +15,6 @@ https://github.com/RichardMorris/SACDungeon
 * Step 3. In the top right corner, press the Fork button to create a copy of the project in your own GitHub account.
 
   * This will make your own copy of the code.
-  * You will need to get approve replit access from github.
 
 * Step 4. Add your name to the list below, use the pencil icon in the top right to do it
 
