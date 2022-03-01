@@ -31,6 +31,7 @@ https://github.com/RichardMorris/SACDungeon
 11. Paddy-Shaw
 12. David Brooks
 
+* Step 5. *Commit and Push* 
 
 The procedure here depends on the editor you are using. 
 If on GitHub at the bottom of the edit page there is a box to Commit pages. Fill in details and press Commit changes.
