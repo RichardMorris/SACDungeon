@@ -43,6 +43,17 @@ If on GitHub at the bottom of the edit page there is a box to Commit pages. Fill
 
 Once done you are free to change anything. Only sensible changes will be accepted.
 
+== Contributing to a shared repositry ==
+
+Having to do pull requests every time you make a change is a bit to much work, instead you can become a contributor of a project
+and push without seeking aproval. The manager of the project can make you a contributor.
+
+* Step 7. Become a contributor
+  * Send me an email with your GitHub username
+  * I will then send you a request 
+  * Accept the request 
+  * You should now appear in the list of contributors of the project
+
 
    
 
