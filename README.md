@@ -43,9 +43,9 @@ If on GitHub at the bottom of the edit page there is a box to Commit pages. Fill
 
 Once done you are free to change anything. Only sensible changes will be accepted.
 
-== Contributing to a shared repositry ==
+## Contributing to a shared repositry
 
-Having to do pull requests every time you make a change is a bit to much work, instead you can become a contributor of a project
+Having to do pull requests every time you make a change is a bit to much work, instead you can become a *contributor* of a project
 and push without seeking aproval. The manager of the project can make you a contributor.
 
 * Step 7. Become a contributor
@@ -54,7 +54,16 @@ and push without seeking aproval. The manager of the project can make you a cont
   * Accept the request 
   * You should now appear in the list of contributors of the project
 
+* Step 8. Now edit the master document
+  *  You should now be able to go to the master repository https://github.com/RichardMorris/SACDungeon/ and edit there.
+  *  Commit the changes. Make sure you commit to the *main* branch.
 
+There may be a problem where two different prople try to commit at the same time causing a *conflit* 
+this might make it so you can commit a change but not push it to the main branch. Resolving conflicts is an advanced issue.
+
+## Connecting a thind party editor to github
+
+Normally you don't work directly on the github page. 
    
 
 
