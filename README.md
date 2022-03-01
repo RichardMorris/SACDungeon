@@ -26,8 +26,9 @@ https://github.com/RichardMorris/SACDungeon
 6. Andrew Maclaren - The supreme coder
 7. Peter Newing - the puzzle solver
 8. Adam C - The dark souls of programmers
-8. A Mathiesen
-9. Lewis James
+9. A Mathiesen
+10. Lewis James
+11. Paddy-Shaw
 
 * Step 5. *Commit and Push* 
 
