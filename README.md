@@ -29,7 +29,9 @@ https://github.com/RichardMorris/SACDungeon
 9. A Mathiesen
 10. Paddy-Shaw
 
-* Step 5. *Commit and Push* 
+1. Richard Morris - lead
+2. David Brooks
+3.
 
 The procedure here depends on the editor you are using. 
 If on GitHub at the bottom of the edit page there is a box to Commit pages. Fill in details and press Commit changes.
