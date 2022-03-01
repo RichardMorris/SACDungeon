@@ -27,7 +27,8 @@ https://github.com/RichardMorris/SACDungeon
 7. Peter Newing - the puzzle solver
 8. Adam C - The dark souls of programmers
 9. A Mathiesen
-10. Paddy-Shaw
+10. Lewis James
+11. Paddy-Shaw
 
 1. Richard Morris - lead
 2. David Brooks
