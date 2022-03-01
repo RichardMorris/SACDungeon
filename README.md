@@ -63,7 +63,31 @@ this might make it so you can commit a change but not push it to the main branch
 
 ## Connecting a thind party editor to github
 
-Normally you don't work directly on the github page. 
+Normally you don't work directly on the github page, but use another application possible methods include
+
+* The *git* command line - this is the basic system that all other programs work with, It is powerful but complex for elightment see https://stevelosh.com/blog/2013/04/git-koans/
+* git bash, a minimal bash commandline that allows git commands https://gitforwindows.org/
+* github desktop a gui app that allows inspection of changes etc. https://desktop.github.com/
+* Many Editors come with git as standard, or allow it using a plugin 
+  * Eclipse
+  * IntelliJ
+  * VSCOde
+  * Atom
+  * Visual Studio
+
+* Step 9. Connect your prefered editor to the master repository
+ * Install the correct git software for your editor
+ * *Checkout* the repository using the the clone url https://github.com/RichardMorris/SACDungeon.git
+ * This will require your login credentials, normal passwords have problems to instead git hub use
+ * Personal Access Tokens https://github.com/settings/tokens these control access rights and are time limited, use this instrad of a password
+ * If things work fine it should create a new folder with a copy of all the files in this repository
+
+* Step 10. Get the latest version from the repository
+ * Use `git pull` to retreive the latest version from the reposity and merge it with your changes
+ * Do this regually as problems emerge if your version and the master version differ
+ * Here *pull* copies changes from the master into your repository. A *pull request* is asking someone to pull changes from your copy into their version, typicall the master.
+ 
+
    
 
 
