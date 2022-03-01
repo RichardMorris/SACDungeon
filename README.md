@@ -27,6 +27,7 @@ https://github.com/RichardMorris/SACDungeon
 7. Peter Newing - the puzzle solver
 8. Adam C - The dark souls of programmers
 8. A Mathiesen
+9. Lewis James
 
 * Step 5. *Commit and Push* 
 
