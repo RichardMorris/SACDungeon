@@ -15,7 +15,6 @@ https://github.com/RichardMorris/SACDungeon
 * Step 3. In the top right corner, press the Fork button to create a copy of the project in your own GitHub account.
 
   * This will make your own copy of the code.
-  * You will need to get approve replit access from github.
 
 * Step 4. Add your name to the list below, use the pencil icon in the top right to do it
 
@@ -27,7 +26,10 @@ https://github.com/RichardMorris/SACDungeon
 6. Andrew Maclaren - The supreme coder
 7. Peter Newing - the puzzle solver
 8. Adam C - The dark souls of programmers
-8. A Mathiesen
+9. A Mathiesen
+10. Lewis James
+11. Paddy-Shaw
+12. David Brooks
 
 * Step 5. *Commit and Push* 
 
@@ -76,6 +78,8 @@ Normally you don't work directly on the github page, but use another application
   * Atom
   * Visual Studio
 
+Once you have decided on an editor you will use 
+
 * Step 9. Connect your prefered editor to the master repository
   * Install the correct git software for your editor
   * *Checkout* the repository using the the clone url https://github.com/RichardMorris/SACDungeon.git
@@ -88,7 +92,14 @@ Normally you don't work directly on the github page, but use another application
   * Do this regually as problems emerge if your version and the master version differ
   * Here *pull* copies changes from the master into your repository. A *pull request* is asking someone to pull changes from your copy into their version, typicall the master.
  
-
+ * Step 11. Make an edit and push
+   * Make an edit to the readme file
+   * You may need to stage the file so that git knows its ready to be committed, `git add` can do this or use an IDE tool
+   * Commit your change - this updates your local copy of the repository
+   * *Push* your change this sends it upto the master repository
+   * If all goes well your change appears, you might get some failures, a message "not fast forward" means you probably need to do a `git pull` first
+   * You can do multiple commits before pushing.
+ 
    
 
 
