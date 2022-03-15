@@ -9,6 +9,10 @@ public class Creature {
 		health = h;		
 	}
 
+	public void attack(Creature enemy) {
+		enemy.receiveDamage(5);		
+	}
+	
 	public void receiveDamage(int damage) {
 		health = health - damage;		
 	}

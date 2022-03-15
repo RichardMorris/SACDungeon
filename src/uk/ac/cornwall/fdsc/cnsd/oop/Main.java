@@ -17,22 +17,19 @@ public class Main {
 		n1 = "Grendle";
 		h1 = 20;
 		
-		Creature g1 = new God(n1,h1);
+		Creature c1 = new Troll(n1,h1);
 			
-		System.out.println(g1.name + " "+  h1);
-
-		modifyCreature(g1, h1);
+		Creature c2 = new RandomHitCreature("Other",25,8);
 		
-		System.out.println(g1.name + " "+  h1);
+		System.out.println(c1.name + " "+  c1.health);
+		System.out.println(c2.name + " "+  c2.health);
 		
-		Random r1 = new Random();
-		while( g1.health > 0) {
-			int rnd = r1.nextInt(10);
-			System.out.println("Hit for "+rnd);
-			g1.receiveDamage(rnd);
-			System.out.println(g1.name + " "+  g1.health);
-		}
-		
+		do {
+			c1.attack(c2);
+			c2.attack(c1);
+			System.out.println(c1.name + " "+  c1.health);
+			System.out.println(c2.name + " "+  c2.health);
+		} while( c1.health > 0 && c2.health > 0);
 	}
 
 }
