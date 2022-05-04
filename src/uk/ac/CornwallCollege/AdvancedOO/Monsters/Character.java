@@ -5,7 +5,7 @@ package uk.ac.CornwallCollege.AdvancedOO.Monsters;
  * @author Richard.Morris
  * @version 0.1
  */
-public class Character implements Hittable {
+public abstract class Character implements Hittable {
 	int health;
 	int attack;
 	String name;
@@ -38,9 +38,7 @@ public class Character implements Hittable {
 	 * @param foe the monster being attacked
 	 * 
 	 */
-	public void attack(Hittable foe) {
-		foe.receiveDamage(attack);
-	}
+	public abstract void attack(Hittable foe);
 
 	@Override
 	public String toString() {
