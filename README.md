@@ -70,13 +70,15 @@ this might make it so you can commit a change but not push it to the main branch
 
 Normally you don't work directly on the github page, but use another application including:
  
-* The *git* command line - this is the basic system that all other programs work with, It is powerful but complex
-* git bash, a minimal bash commandline that allows git commands https://gitforwindows.org/
+* Using *git*  on a command line - this is the basic system that all other programs work with. It is powerful but complex. 
+  * Git For Windows: gives a minimal bash commandline that allows git commands https://gitforwindows.org/
+  * Linux: `sudo apt install git` will install it
+  * Windows subsystem for Linux: we can use this on college PCs, install ubuntu from the Windows store.  
 * github desktop a gui app that allows inspection of changes etc. https://desktop.github.com/
 * Many Editors come with git as standard, or allow it using a plugin 
   * Eclipse
   * IntelliJ
-  * VSCOde
+  * VS Code
   * Atom
   * Visual Studio
 
@@ -84,9 +86,9 @@ Once you have decided on an editor you will use
 
 * Step 9. Connect your prefered editor to the master repository
   * Install the correct git software for your editor
-  * *Checkout* the repository using the the clone url https://github.com/RichardMorris/SACDungeon.git
-  * This will require your login credentials, normal passwords have problems to instead git hub use
-  * Personal Access Tokens https://github.com/settings/tokens these control access rights and are time limited, use this instrad of a password
+  * Create a  Personal Access Tokens, a safer versions of a password. Go to https://github.com/settings/tokens, create one with *repo* access 
+  * In you app *Checkout* the repository using the the clone url https://github.com/RichardMorris/SACDungeon.git
+  * This will require your login credentials and Personal Access Tokens as password
   * If things work fine it should create a new folder with a copy of all the files in this repository
 
 * Step 10. Get the latest version from the repository
