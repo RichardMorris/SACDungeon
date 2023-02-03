@@ -1,12 +1,13 @@
 # SACDungeon
 
-A colaborative text adventure game
+A simple git and github example.
 
-We will develope this using GitHub
+# Git Koans
 
-First read
- https://docs.replit.com/tutorials/06-github-and-run-button
- 
+For enlightenment see https://stevelosh.com/blog/2013/04/git-koans/
+
+# Creating your own clone of a repository, committing and pull requests
+
 * Step 1. Create a github account.
  
 * Step 2. In GitHub go to 
@@ -33,10 +34,12 @@ https://github.com/RichardMorris/SACDungeon
 
 * Step 5. *Commit and Push* 
 
-The procedure here depends on the editor you are using. 
-If on GitHub at the bottom of the edit page there is a box to Commit pages. Fill in details and press Commit changes.
+On GitHub at the bottom of the edit page there is a box to Commit pages. Fill in details and press Commit changes.
 
 * Step 6. Create a pull request in github
+
+This will be a request to the owner of the upstream repositiory (Richard) to pull you code and merge into my code base.
+
   * Click the *Pull Request* or *Contribute* button
   * Select *create pull request*
   * On new screen select *create pull request* again.
@@ -65,10 +68,9 @@ this might make it so you can commit a change but not push it to the main branch
 
 ## Connecting a thind party editor to github
 
-Normally you don't work directly on the github page, but use another application possible methods include
-
+Normally you don't work directly on the github page, but use another application including:
  
-* The *git* command line - this is the basic system that all other programs work with, It is powerful but complex for elightment see https://stevelosh.com/blog/2013/04/git-koans/
+* The *git* command line - this is the basic system that all other programs work with, It is powerful but complex
 * git bash, a minimal bash commandline that allows git commands https://gitforwindows.org/
 * github desktop a gui app that allows inspection of changes etc. https://desktop.github.com/
 * Many Editors come with git as standard, or allow it using a plugin 
