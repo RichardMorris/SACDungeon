@@ -33,6 +33,7 @@ https://github.com/RichardMorris/SACDungeon
 12. David Brooks
 13. Michael Algie
 14. Emil Bostrom
+15. James Barnfather
 
 * Step 5. *Commit and Push* 
 
