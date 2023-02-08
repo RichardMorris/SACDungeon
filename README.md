@@ -31,6 +31,7 @@ https://github.com/RichardMorris/SACDungeon
 10. Lewis James
 11. Paddy-Shaw
 12. David Brooks
+13. Michael Algie
 14. Emil Bostrom
 
 * Step 5. *Commit and Push* 
