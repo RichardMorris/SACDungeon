@@ -38,6 +38,8 @@ https://github.com/RichardMorris/SACDungeon
 17. Harvey Lloyd
 18. Will G-S
 19. Peter Craze
+20. D Edgeworth
+
 
 * Step 5. *Commit and Push* 
 
