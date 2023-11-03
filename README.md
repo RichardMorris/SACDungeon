@@ -42,6 +42,7 @@ https://github.com/RichardMorris/SACDungeon
 21. Max Walker
 22. Lexie Johnston
 23. Cai Taylor
+24. Dayana Sanchez
 
 * Step 5. *Commit and Push* 
 
