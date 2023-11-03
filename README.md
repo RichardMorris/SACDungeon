@@ -34,8 +34,15 @@ https://github.com/RichardMorris/SACDungeon
 13. Michael Algie
 14. Emil Bostrom
 15. James Barnfather
-16. Harvey Lloyd
-17. Cai Taylor
+16. Alex Cooper
+17. Harvey Lloyd
+18. Will G-S
+19. Peter Craze
+20. D Edgeworth
+21. Max Walker
+22. Lexie Johnston
+23. Cai Taylor
+
 * Step 5. *Commit and Push* 
 
 On GitHub at the bottom of the edit page there is a box to Commit pages. Fill in details and press Commit changes.
