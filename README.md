@@ -34,7 +34,12 @@ https://github.com/RichardMorris/SACDungeon
 13. Michael Algie
 14. Emil Bostrom
 15. James Barnfather
-16. Max Walker
+16. Alex Cooper
+17. Harvey Lloyd
+18. Will G-S
+19. Peter Craze
+20. D Edgeworth
+21. Max Walker
 
 * Step 5. *Commit and Push* 
 
