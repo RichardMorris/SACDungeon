@@ -40,6 +40,7 @@ https://github.com/RichardMorris/SACDungeon
 19. Peter Craze
 20. D Edgeworth
 21. Max Walker
+22. Lexie Johnston
 
 * Step 5. *Commit and Push* 
 
