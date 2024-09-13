@@ -19,7 +19,7 @@ https://github.com/RichardMorris/SACDungeon
 
 * Step 4. Add your name to the list below, use the pencil icon in the top right to do it
 
-1. Richard Morris - grand wizard
+1. Richard Morris - Grand Wizard
 2. Paul Smith
 3. Olly E - Dev and all round lovely chap
 4. Jamie Lias
