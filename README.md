@@ -49,6 +49,7 @@ https://github.com/RichardMorris/SACDungeon
 28. Ryan Christie  
 29. Lord (yes it's legal) Oliver James Gazzard
 30. Owen Keast
+31. Harry Waddington
 
 * Step 5. *Commit and Push* 
 
