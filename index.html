@@ -62,8 +62,8 @@
       function exit() {
         var text="You are in the exit\n";
         val = getInput();
-        if(val==1) {
-          text += "You go north\n";
+        if(val==3) {
+          text += "You go south\n";
           // Move to entrance
           current_room = "Entrance";
         } else {
@@ -85,7 +85,7 @@
     1. Go north
     2. Go east 
     3. Go south 
-    4. Go south
+    4. Go west
     </textarea>
     <br/>
     <input type="text" id="Input" />
