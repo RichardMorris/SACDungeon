@@ -46,7 +46,9 @@ https://github.com/RichardMorris/SACDungeon
 25. Andy Watson
 26. Adam Allerton
 27. Will Best
-28. Lord (yes it's legal) Oliver James Gazzard
+28. Ryan Christie  
+29. Lord (yes it's legal) Oliver James Gazzard
+
 * Step 5. *Commit and Push* 
 
 On GitHub at the bottom of the edit page there is a box to Commit pages. Fill in details and press Commit changes.
