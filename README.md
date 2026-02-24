@@ -51,7 +51,6 @@ https://github.com/RichardMorris/SACDungeon
 30. Owen Keast
 31. Harry Waddington
 32. Fin J
-33. Jamie N - I am Mr. Robot
 33. Dexter K
 34. Jamie N - I am Mr. Robot
 
